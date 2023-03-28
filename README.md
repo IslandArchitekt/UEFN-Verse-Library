@@ -30,9 +30,13 @@ An open library for Verse scripts / devices to be used in Unreal Engine for Fort
 + [Verse API Reference](https://dev.epicgames.com/documentation/en-us/uefn/verse-api)
      
 #### Unofficial Learning Resources
+
 Coming Soon...
 
 If you would like to have your channel listed here please make a pull request or contact me via email.
+
+#### About Verse
+  + [Verse Programming Language](https://github.com/UnrealVerseGuru/VerseProgrammingLanguage)
 
 ## Contributions
 Please make a pull request if you would like to contribute to the repo.
