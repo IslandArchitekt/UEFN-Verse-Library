@@ -7,6 +7,12 @@ using { /Verse.org/Simulation/Tags }
 using { /Verse.org/Random }
 using { /UnrealEngine.com/Temporary/Diagnostics }
 
+# Getting started:
+#     https://www.epicgames.com/fortnite/en-US/creative/docs/uefn/Verse/onboarding-guide-to-programming-with-verse-in-unreal-editor-for-fortnite
+#
+# Elimination Tutorial:
+#     https://dev.epicgames.com/documentation/en-us/uefn/verse-elimination-template-in-unreal-editor-for-fortnite
+#
 elimination_game_device := class(creative_device):
 
     @editable

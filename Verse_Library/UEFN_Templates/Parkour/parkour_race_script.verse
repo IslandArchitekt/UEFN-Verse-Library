@@ -11,6 +11,9 @@ log_parkour := class(log_channel){}
 # Getting started:
 #   https://www.epicgames.com/fortnite/en-US/creative/docs/uefn/programming-with-verse-in-unreal-editor-for-fortnite
 #
+# Parkour Tutorial:
+#     https://dev.epicgames.com/documentation/en-us/uefn/verse-parkour-template-in-unreal-editor-for-fortnite
+#
 parkour_race_script := class(creative_device):
     Logger : log = log{Channel:=log_parkour}
 

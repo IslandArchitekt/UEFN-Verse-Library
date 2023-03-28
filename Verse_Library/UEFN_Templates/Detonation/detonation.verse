@@ -13,6 +13,9 @@ bomb_state<public>:= enum {AllUnarmed, BombAArmed, BombBArmed}
 # Getting started:
 #     https://www.epicgames.com/fortnite/en-US/creative/docs/uefn/Verse/onboarding-guide-to-programming-with-verse-in-unreal-editor-for-fortnite
 #
+# Detonation Tutorial:
+#     https://dev.epicgames.com/documentation/en-us/uefn/verse-detonation-template-in-unreal-editor-for-fortnite
+#
 detonation := class(creative_device):
 
     @editable 
